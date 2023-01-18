@@ -8,7 +8,7 @@ https://git-school.github.io/visualizing-git/
 
 Spend some time experimenting with branches and how you they work to clarify your understanding.
 
-Note that this website doesn't understand `git switch`, so you'll need to run `git checkout` to switch branches (e.g. `git checkout mybranch` to switch to `mybranch`), and `git checkout -b` to make branches (e.g. `git checkout -b add-story` to make a new branch named `add-story`)!
+> Note that this website doesn't understand `git switch`, so you'll need to run `git checkout` to switch branches (e.g. `git checkout mybranch` to switch to `mybranch`), and `git checkout -b` to make branches (e.g. `git checkout -b add-story` to make a new branch named `add-story`)!
 
 Please refer to the following animation or use the git commands below:
 
@@ -23,6 +23,7 @@ git checkout feature1
 git commit -m "added part 4"
 git checkout master
 git commit -m "added part 5"
+git branch feature2
 ```
 
 ## Part 2: Git Branches

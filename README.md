@@ -32,7 +32,6 @@ git pull
   - [Git Visualizer](https://git-school.github.io/visualizing-git/)
 - JavScript
   - JavScript objects vs JSON
-  - [JavaScript callbacks](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/)
 - Express
   - HTTP Request/Response Components
   - [Express.js: Intro](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
@@ -44,6 +43,7 @@ git pull
   - remote
 - JavScript
   - [Asynchronous JavaScript](https://www.javascripttutorial.net/javascript-event-loop/s)
+  - [JavaScript callbacks](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/)
   - [Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 - Express
   - [Routers](https://expressjs.com/en/guide/routing.html)

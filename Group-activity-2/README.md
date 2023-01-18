@@ -29,6 +29,8 @@ let obj = {};
 ```js
 obj.hello = 'world';
 obj['number'] = 25;
+obj.favoriteColor = 'green';
+obj.favoriteColor = 'blue';
 ```
 
 3. Now, check the value of `obj` in the console and ensure that it has the two key/value pairs added above. This is how we create new key/value pairs in existing objects.
