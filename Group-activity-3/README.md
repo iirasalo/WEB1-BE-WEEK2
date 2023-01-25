@@ -35,7 +35,11 @@ app.get('/catinfo', (req, res) => {
 ## Task 2:
 
 - What is ExpressJS and what are the benefits of using it?
+--> Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+
 - What is the difference between route and endpoint?
+--> route = reitti, the way to the endpoint
+--> endpoint: user end & server end
 
 ## Links
 
