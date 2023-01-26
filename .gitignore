@@ -1,6 +1,4 @@
 node_modules/
-Quiz/
-Sample-solutions/
 
 # dotenv environment variables file
 .env
